@@ -1,0 +1,12 @@
+
+
+button[data-start],
+button[data-stop] {
+    font-size: 20px;
+    font-weight: 500;
+    height: 40px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 10px;
+    width: 80px;
+}
